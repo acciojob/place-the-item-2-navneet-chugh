@@ -2,7 +2,7 @@
 .holder{
 	display:flex;
 	flex-wrap:wrap;
-	justify-content:none;
+	justify-content:center;
 }
 .green{
 	background-color:green;
